@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[6579],{627:e=>{e.exports=JSON.parse('{"label":"design","permalink":"/enact-docs/blog/tags/design","allTagsPath":"/enact-docs/blog/tags","count":1}')}}]);
